@@ -1,0 +1,1 @@
+{"version":3,"sources":["routes.js"],"names":["Routes"],"mappings":";;;;;;;AAAA;;AACA;;;;eAEeA,MAAM,E","sourcesContent":["import React from 'react';\r\nimport { } from 'react-router-dom';\r\n\r\nexport default Routes()"],"file":"routes.dev.js"}

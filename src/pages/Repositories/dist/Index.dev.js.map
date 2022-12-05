@@ -1,0 +1,1 @@
+{"version":3,"sources":["Index.js"],"names":["Repositories","u"],"mappings":";;;;;;;AAAA;;;;AAEe,SAASA,YAAT,GAAyB;AACpC,SACIC,CADJ;AAGH","sourcesContent":["import React from 'react';\r\n\r\nexport default function Repositories () {\r\n    return (\r\n        u\r\n    )\r\n}\r\n"],"file":"Index.dev.js"}

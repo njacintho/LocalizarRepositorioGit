@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.js"],"names":["App","inp"],"mappings":";;;;;;;AAAA;;AACA;;;;AACA;AACA,SAASA,GAAT,GAAe;AACb,SACEC,GADF;AAGD;;eAEcD,G","sourcesContent":["import logo from './logo.svg';\nimport './App.css';\n//Isso é um JSX um html dentro do js\nfunction App() {\n  return (\n    inp\n  );\n}\n\nexport default App;\n"],"file":"App.dev.js"}

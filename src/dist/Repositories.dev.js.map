@@ -1,0 +1,1 @@
+{"version":3,"sources":["Repositories.js"],"names":["Repositories","h"],"mappings":";;AAAA;;;;AAEA,SAASA,YAAT,GAAyB;AACrB,SACIC,CADJ;AAGH","sourcesContent":["import React from 'react';\r\n\r\nfunction Repositories () {\r\n    return (\r\n        h\r\n    )\r\n}"],"file":"Repositories.dev.js"}
